@@ -1,0 +1,6 @@
+- 👋 Hey Im Frey!
+- 👀 Im mostly working with Python but always hungry for more!
+- 🌱 I’m currently learning Python adn C++ / C# .
+- 📫 You can reach me on Twitter and Discord!
+- Discord: FreyInFrame#2049
+- Twitter: https://twitter.com/FreyInFrame
